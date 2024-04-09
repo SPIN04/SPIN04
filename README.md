@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **i focus everithing on one thing doing something else**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
