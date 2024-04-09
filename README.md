@@ -24,9 +24,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spin04&show_icons=true&locale=en&layout=compact" alt="spin04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spin04&show_icons=true&locale=en" alt="spin04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spin04&" alt="spin04" /></p>
+
+
 
 
 <!---
