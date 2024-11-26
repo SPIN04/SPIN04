@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **what you want**
 
-- 📫 How to reach me **discord: spino__04** **mail: spinelli04.web@gmail.com**
+- 📫 How to reach me **discord: spino__04** **mail: spino@progettoedogian.com**
 
 - ⚡ Fun fact **i focus everithing on one thing doing something else**
 
