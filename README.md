@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **social/managment project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SPIN04](https://github.com/SPIN04)
+- 👨‍💻 All of my projects are available at [https://github.com/SPIN04](https://github.com/SPIN04) or [My WebSite](https://progettoedogian.com)**
 
 - 💬 Ask me about **what you want**
 
 - 📫 How to reach me **discord: spino__04** **mail: spino@progettoedogian.com**
 
-- ⚡ Fun fact **i focus everithing on one thing doing something else**
+- ⚡ Fun fact **i focus everithing on one thing doing something else if it make any sense**
 
 
 <p align="left">
